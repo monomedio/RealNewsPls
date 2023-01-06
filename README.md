@@ -1,4 +1,4 @@
-# csc311_hw1
+# News Headline Classifier
 Decision tree classifier for predicting "real" and "fake news" headlines. 
 Implemented as part of an assignment in CSC311, a course offered at the University of Toronto.
 
