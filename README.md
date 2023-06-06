@@ -1,6 +1,5 @@
 # News Headline Classifier
-Decision tree classifier for predicting "real" and "fake news" headlines. 
-Implemented as part of an assignment in CSC311, a course offered at the University of Toronto.
+Decision tree classifier for predicting "real" and "fake news" headlines.
 
 The fake news headlines are from [here](https://www.kaggle.com/mrisdal/fake-news/data), while the real news headlines are from [here](https://www.kaggle.com/therohk/million-headlines.)
 
